@@ -5,7 +5,7 @@
 //  -->>  git status                                                                            | |
 //  -->>  git commit -m "Commits"                                                               | |
 //  -->>  git branch -M main                                                                    | |
-//  -->>  git remote add origin https://github.com/ujjawalsingh25/Practice-Project.git          | |
+//  -->>  git remote add origin https://github.com/ujjawalsingh25/React.git                     | |
 //  -->>  git push -u origin main                                                               | |
 // ---------------------------------------------------------------------------------------------| |
 //    git reset  -->> To revoke back to Unstaging area                                          | |
@@ -21,17 +21,17 @@
 //                                                                                  |
 // …or create a new repository on the command line                                  |
 //                                                                                  | 
-// echo "# Practice-Project" >> README.md                                           |
+// echo "# React" >> README.md                                                      |
 // git init                                                                         |
 // git add README.md                                                                |
 // git commit -m "first commit"                                                     |
 // git branch -M main                                                               |
-// git remote add origin https://github.com/ujjawalsingh25/Practice-Project.git     |
+// git remote add origin https://github.com/ujjawalsingh25/React.git                |
 // git push -u origin main                                                          |
 //                                                                                  |
 //                                                                                  |
 // …or push an existing repository from the command line                            |
-// git remote add origin https://github.com/ujjawalsingh25/Practice-Project.git     |
+// git remote add origin https://github.com/ujjawalsingh25/React.git                |
 // git branch -M main                                                               |
 // git push -u origin main`                                                         |
 // _________________________________________________________________________________|
